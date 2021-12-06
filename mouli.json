@@ -7,7 +7,8 @@
         "default": [
             "medium.suite.js",
             "large.suite.js",
-            "special.suite.js"
+            "special.suite.js",
+            "error.suite.js"
         ]
     }
 }
