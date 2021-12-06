@@ -4,6 +4,8 @@
         "bsq": "bsq"
     },
     "suites": {
-        "default": []
+        "default": [
+            "medium.suite.js"
+        ]
     }
 }
