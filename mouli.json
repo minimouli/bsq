@@ -6,7 +6,8 @@
     "suites": {
         "default": [
             "medium.suite.js",
-            "large.suite.js"
+            "large.suite.js",
+            "special.suite.js"
         ]
     }
 }
