@@ -1,0 +1,9 @@
+{
+    "rootDir": "./dist",
+    "binaries": {
+        "bsq": "bsq"
+    },
+    "suites": {
+        "default": []
+    }
+}
