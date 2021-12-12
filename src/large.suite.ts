@@ -36,6 +36,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/500x500_1')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -47,6 +49,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/500x500_2')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -58,6 +62,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/500x500_3')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -69,6 +75,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/1000x1000_1')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -80,6 +88,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/1000x1000_2')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -91,6 +101,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/2000x2000')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -102,6 +114,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/5000x5000')
         ])
+
+        exec.setTimeout(20000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
@@ -113,6 +127,8 @@ suite('Large', () => {
         const exec = new Executable('bsq', [
             Path.fromMouli('/res/maps/10000x10000')
         ])
+
+        exec.setTimeout(30000)
         await exec.execute()
 
         expect(exec).toExitWith(0)
