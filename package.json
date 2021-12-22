@@ -1,6 +1,6 @@
 {
   "name": "@minimouli/bsq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "minimouli",
     "project=bsq",
@@ -25,7 +25,7 @@
     "mouli.json"
   ],
   "dependencies": {
-    "@minimouli/framework": "^1.0.0"
+    "@minimouli/framework": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^16.11.11",
