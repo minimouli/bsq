@@ -8,7 +8,8 @@
       "square.suite.js",
       "rectangle.suite.js",
       "column.suite.js",
-      "line.suite.js"
+      "line.suite.js",
+      "edges.suite.js"
     ]
   }
 }
