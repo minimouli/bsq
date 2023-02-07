@@ -10,7 +10,8 @@
       "column.suite.js",
       "line.suite.js",
       "edges.suite.js",
-      "optimization.suite.js"
+      "optimization.suite.js",
+      "robustness.suite.js"
     ]
   }
 }
