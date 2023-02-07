@@ -11,7 +11,8 @@
       "line.suite.js",
       "edges.suite.js",
       "optimization.suite.js",
-      "robustness.suite.js"
+      "robustness.suite.js",
+      "error.suite.js"
     ]
   }
 }
