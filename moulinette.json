@@ -9,7 +9,8 @@
       "rectangle.suite.js",
       "column.suite.js",
       "line.suite.js",
-      "edges.suite.js"
+      "edges.suite.js",
+      "optimization.suite.js"
     ]
   }
 }
