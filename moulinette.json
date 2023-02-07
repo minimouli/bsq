@@ -1,9 +1,11 @@
 {
   "rootDir": "dist",
-  "binaries": {},
+  "binaries": {
+    "bsq": "bsq"
+  },
   "suites": {
     "default": [
-      "example.suite.js"
+      "square.suite.js"
     ]
   }
 }
