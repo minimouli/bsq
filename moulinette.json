@@ -5,7 +5,8 @@
   },
   "suites": {
     "default": [
-      "square.suite.js"
+      "square.suite.js",
+      "rectangle.suite.js"
     ]
   }
 }
