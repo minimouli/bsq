@@ -7,7 +7,8 @@
     "default": [
       "square.suite.js",
       "rectangle.suite.js",
-      "column.suite.js"
+      "column.suite.js",
+      "line.suite.js"
     ]
   }
 }
